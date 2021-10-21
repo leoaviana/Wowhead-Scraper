@@ -1,0 +1,8 @@
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Release\WoW Parser.csprojAssemblyReference.cache
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Release\WoW_Parser.IdRangeFrm.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Release\WoW_Parser.itemControl.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Release\WoW_Parser.questControl.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Release\WoW_Parser.MainForm.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Release\WoW_Parser.Properties.Resources.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Release\WoW Parser.csproj.GenerateResource.cache
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Release\WoW Parser.csproj.CoreCompileInputs.cache

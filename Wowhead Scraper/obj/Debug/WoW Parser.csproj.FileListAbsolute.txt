@@ -1,0 +1,50 @@
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\bin\Debug\WoW Parser.exe.config
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\bin\Debug\WoW Parser.exe
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\bin\Debug\WoW Parser.pdb
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csprojResolveAssemblyReference.cache
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.Properties.Resources.resources
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csproj.GenerateResource.Cache
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.exe
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.pdb
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.questControl.resources
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.MainForm.resources
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.itemControl.resources
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\bin\Debug\MySql.Data.dll
+C:\Users\Arche\Documents\Visual Studio 2015\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.IdRangeFrm.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\WoW Parser.exe.config
+F:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\WoW Parser.exe
+F:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\WoW Parser.pdb
+F:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\HtmlAgilityPack.dll
+F:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\HtmlAgilityPack.pdb
+F:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\HtmlAgilityPack.xml
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csprojAssemblyReference.cache
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.IdRangeFrm.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.itemControl.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.questControl.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.MainForm.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.Properties.Resources.resources
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csproj.GenerateResource.cache
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csproj.CoreCompileInputs.cache
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csproj.CopyComplete
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.exe
+F:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.pdb
+D:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\WoW Parser.exe.config
+D:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\WoW Parser.exe
+D:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\WoW Parser.pdb
+D:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\HtmlAgilityPack.dll
+D:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\HtmlAgilityPack.pdb
+D:\Outros\Projects\WoW Parser\WoW Parser\bin\Debug\HtmlAgilityPack.xml
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csproj.AssemblyReference.cache
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.IdRangeFrm.resources
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.itemControl.resources
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.questControl.resources
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.MainForm.resources
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW_Parser.Properties.Resources.resources
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csproj.GenerateResource.cache
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csproj.CoreCompileInputs.cache
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.csproj.CopyComplete
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.exe
+D:\Outros\Projects\WoW Parser\WoW Parser\obj\Debug\WoW Parser.pdb
