@@ -1,6 +1,6 @@
 # Wowhead Scraper
 
-A tool used to gather quest information from wowhead, this is an old project of mine used to make a quest database for my quest translation addon called [QuestTradutor](https://github.com/leoaviana/questtradutor), It was tested to be working in august 2021.
+A tool used to gather quest information from wowhead, this is an old project of mine used to make a quest database for my port of a quest translation addon called [QuestTradutor](https://github.com/leoaviana/questtradutor), Since it's a web scraping software, there must be constant updates to the code to be able to get interesting results from wow-head, It was tested to be working in august 2021.
 
 ## Notes
 
